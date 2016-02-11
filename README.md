@@ -1,6 +1,6 @@
 # OpenPoem
 
-Há cor que brote do concreto áspero-escaldante. No meio de tanto código, de línguas lógico-matemáticas, símbolos e rotinas de repetição programados para computador entender, surgiu a sede do verso. A fome das palavras da nossa própria língua - da nossa própria angústia! - ronca todos os dias no estômago que digere zeros e uns, e ganha voz, ganha verso aqui, no repositório livre do poema aberto, do poema vivo.
+Há cor que brote do concreto áspero-escaldante. No meio de tanto código, de línguas lógico-matemáticas, símbolos e rotinas de repetição (para o bom computador, meio caracter basta?), surgiu a sede do verso. A fome das palavras da nossa própria língua - da nossa própria angústia! - ronca todos os dias no estômago que digere zeros e uns, e ganha voz, ganha verso aqui, no repositório livre do poema aberto, do poema vivo.
 <br/><br/>
 Meta-se a escrever todos os dias. Submeta. A escrita é livre, o repositório também é. Livre e todo seu! E todo meu e delas e deles e de todo mundo. Sendo do mundo, conteúdos intolerantes não cabem aqui, lembre-se disso. Nem material que fira o direito autoral do outro - apenas material original, seu, cuspido da alma.
 <br/><br/>
