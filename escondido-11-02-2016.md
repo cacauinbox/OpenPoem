@@ -1,7 +1,7 @@
-# Escondido
+# Escondido <br />
 
-Quando meu demônio aparece
-Eu corto meus punhos 
-Arranco seu braço 
-Tentando esconder os pecados
-Que quase sempre faço
+Quando meu demônio aparece  <br />
+Eu corto meus punhos  <br />
+Arranco seu braço  <br />
+Tentando esconder os pecados <br />
+Que quase sempre faço <br />
