@@ -1,7 +1,7 @@
 # Tribunal Astral <br />
 
 Já levei nas costas o peso desse amor não dar certo <br/>
-Por do sol, poema, carnaval, cinema<br/>
+Pôr do sol, poema, carnaval, cinema<br/>
 <br/>
 Eu tentei... nem na marra!<br/>
 <br/>
