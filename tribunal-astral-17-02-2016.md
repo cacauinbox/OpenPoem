@@ -1,4 +1,4 @@
-# Tribunal astral <br />
+# Tribunal Astral <br />
 
 Já levei nas costas o peso desse amor não dar certo <br/>
 Por do sol, poema, carnaval, cinema<br/>
