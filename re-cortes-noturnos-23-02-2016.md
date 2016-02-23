@@ -16,7 +16,7 @@ rouca, eu relembro:<br/><br/>
 
 os ritos! que construímos madrugada afora<br/>
 esmigalham, despedaçam ao clarear d’aurora<br/>
-- a quem chamam de mãe e santa iluminada,<br/>
+&#8211; a quem chamam de mãe e santa iluminada,<br/>
 uma rameira de duas notas, uma puta cansada<br/>
 não me iludem seus brilhos, sei bem quem és<br/>
 a claridade enlameia os seus pés<br/>
